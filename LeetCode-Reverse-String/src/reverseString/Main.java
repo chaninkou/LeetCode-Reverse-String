@@ -10,7 +10,7 @@ public class Main {
 		
 		ReverseStringSolution output = new ReverseStringSolution();
 		
-		output.reverseString(input);
+		output.reverseString2(input);
 		
 	}
 }
